@@ -1,2 +1,8 @@
 # goats-mcp
-Who let the goats out?! Who, who, who, who, who?
+
+
+TLDR: An MCP server that allows you to pay to feed some goats
+
+[![Watch the demo](https://img.youtube.com/vi/a1ycwDbYfYA/0.jpg)](https://www.youtube.com/watch?v=a1ycwDbYfYA)
+
+
